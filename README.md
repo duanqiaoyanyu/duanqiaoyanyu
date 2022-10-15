@@ -5,6 +5,13 @@
 - 📫 How to reach me ...
 - Daily...
 
+| group | 1st | 2nd |
+| :--- | :---: | :---: |
+| A | SKT | EDG |
+| B | JDG | DK |
+| C | RGE | DRX |
+| D | RNG | GEN.G |
+
 <!---
 duanqiaoyanyu/duanqiaoyanyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
