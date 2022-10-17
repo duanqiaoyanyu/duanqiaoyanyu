@@ -12,6 +12,14 @@
 | C | RGE | DRX |
 | D | RNG | GEN.G |
 
+
+---
+QUARTERFINALS
+| :--- | :---: |
+| division | one | the other |
+| upper half | JDG | SKT1 |
+| lower half | DWG | EDG |
+
 <!---
 duanqiaoyanyu/duanqiaoyanyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
