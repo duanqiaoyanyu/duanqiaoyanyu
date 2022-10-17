@@ -14,9 +14,9 @@
 
 
 ---
-QUARTERFINALS
-| :--- | :---: |
+**QUARTERFINALS**  
 | division | one | the other |
+| :--- | :---: | :---: |
 | upper half | JDG | SKT1 |
 | lower half | DWG | EDG |
 
