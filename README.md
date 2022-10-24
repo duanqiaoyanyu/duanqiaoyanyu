@@ -20,6 +20,13 @@
 | upper half | JDG | SKT1 |
 | lower half | DWG | EDG |
 
+---
+**HALFFINALS**
+| division | winner |
+| :---: | :---: |
+| upper half | SKT |
+| downer half | GEN.G |
+
 <!---
 duanqiaoyanyu/duanqiaoyanyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
