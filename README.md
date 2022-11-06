@@ -5,6 +5,8 @@
 - 📫 How to reach me ...
 - Daily...
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duanqiaoyanyu)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 duanqiaoyanyu/duanqiaoyanyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
