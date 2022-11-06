@@ -5,31 +5,6 @@
 - 📫 How to reach me ...
 - Daily...
 
-| group | 1st | 2nd |
-| :--- | :---: | :---: |
-| A | SKT | EDG |
-| B | JDG | DK |
-| C | RGE | DRX |
-| D | RNG | GEN.G |
-
-
----
-**QUARTERFINALS**  
-| division | one | the other |
-| :--- | :---: | :---: |
-| upper half | JDG | SKT1 |
-| lower half | DWG | EDG |
-
----
-**HALFFINALS**
-| division | winner |
-| :---: | :---: |
-| upper half | SKT |
-| downer half | GEN.G |
-
----
-**S12 LOL winner**
-SK Telecom T1
 
 <!---
 duanqiaoyanyu/duanqiaoyanyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
